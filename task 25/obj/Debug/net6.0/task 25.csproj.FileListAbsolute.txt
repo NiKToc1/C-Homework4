@@ -1,0 +1,15 @@
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\task 25.csproj.AssemblyReference.cache
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\task 25.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\task 25.AssemblyInfoInputs.cache
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\task 25.AssemblyInfo.cs
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\task 25.csproj.CoreCompileInputs.cache
+D:\gb\C#Homework4\C-Homework4\task 25\bin\Debug\net6.0\task 25.exe
+D:\gb\C#Homework4\C-Homework4\task 25\bin\Debug\net6.0\task 25.deps.json
+D:\gb\C#Homework4\C-Homework4\task 25\bin\Debug\net6.0\task 25.runtimeconfig.json
+D:\gb\C#Homework4\C-Homework4\task 25\bin\Debug\net6.0\task 25.dll
+D:\gb\C#Homework4\C-Homework4\task 25\bin\Debug\net6.0\task 25.pdb
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\task 25.dll
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\refint\task 25.dll
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\task 25.pdb
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\task 25.genruntimeconfig.cache
+D:\gb\C#Homework4\C-Homework4\task 25\obj\Debug\net6.0\ref\task 25.dll
